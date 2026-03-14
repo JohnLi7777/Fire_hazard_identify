@@ -1,0 +1,5 @@
+path: C:\Users\13903\Desktop\FireHazardIdentify\YOLO训练\123
+train: images/train
+val: images/val
+nc: 9
+names: ['电瓶车', '纸箱', '其他', '桶', '柜子', '塑料袋', '自行车', '鞋子', '婴儿车']
